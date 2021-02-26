@@ -1,0 +1,17 @@
+{
+    "name": "diomeh/mvc-framework",
+    "description": "A simple MVC framework for PHP, purely for educational purposes.",
+    "type": "framework",
+    "authors": [
+        {
+            "name": "David Urbina",
+            "email": "duparra15@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
